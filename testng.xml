@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Loan Department">
+  <test name="Test">
+    <classes>
+      <class name="day1.Testone"/>
+      <class name="day1.Day3"/>
+    </classes>
+  </test> <!-- Test -->
+  <test name="Testo">
+    <classes>
+      <class name="day1.Day2"/>
+    </classes>
+  </test>
+  
+  
+</suite>
